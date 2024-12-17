@@ -135,16 +135,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contributing 🤝
-
-Pull requests are welcome! If you'd like to improve this project, feel free to fork the repository and submit a PR.
-
----
-
-## Contact 📬
-
-For any questions or feedback, please contact [Your Name] at [Your Email].
-
----
-
 Happy Coding! 🎉
